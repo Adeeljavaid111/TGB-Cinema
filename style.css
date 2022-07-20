@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    
+}
+.image{
+    background-color:black ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 2000vh;
+    
+    }     
+    .welcome{
+        font-size: 500%;
+        color: red;
+        background-color: aquamarine;
+        font-weight: 900;
+        background-position: top center;
+        text-align: center;
+        padding: 40px 180px;
+        font-style: oblique;
+        background-attachment: fixed;
+    }
+    nav a{
+        color: azure;
+        
+        font-size: larger;
+        padding: 20px;
+        
+    }
+    nav{
+        background-color: rgb(241, 138, 138);
+        padding: 20px;
+
+    }
+    nav a:hover{
+        color: yellow;
+    }
+    main h1{
+        color: blue;
+        background-color: yellow;
+        padding: 10px;
+    }
+    main p{
+        font-size: 25px;
+        font-weight: bolder;
+        padding: 10px;
+        margin: 10px;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        word-spacing: 1px;
+    }
+    .headings{
+        font-size: 150%;
+    }
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        padding: 50px;
+    }
+    .linked{
+        color: black;
+        background-color: rgb(101, 255, 87);
+        padding: 10px;
+        border-radius: 15px;
+        cursor: pointer;
+        font-size:200%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%; 
+        
+    }
+    .linked:hover{
+        color: aliceblue;
+    }
+    .link{
+        text-decoration: none;
+        font-size: 35px;
+        padding:  10px 856px;
+       font-weight: 900;
+        border-radius: 20px;
+        color: crimson;
+        background-color: yellow;
+        text-align: center;
+        display: inline-block;
+        position: relative;
+        }
+        .link:hover{
+             color: rgb(255, 255, 255);
+            background-color: rgb(241, 57, 57);
+        }
+        
+    .movie{
+        color: blue;
+        background-color: yellow;
+        padding: 10px ;
+        text-align: center;
+        font-style: oblique;
+        font-size: 30px;
+        
+
+    }
